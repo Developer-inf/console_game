@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Paul\Desktop\еще файлик\Source.cpp(36,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Paul\Desktop\еще файлик\Source.cpp(64,24): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Paul\Desktop\еще файлик\Source.cpp(65,80): warning C4267: аргумент: преобразование из "size_t" в "COLORREF"; возможна потеря данных
+C:\Users\Paul\Desktop\еще файлик\Source.cpp(125,51): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Paul\Desktop\еще файлик\Source.cpp(142,84): warning C4267: аргумент: преобразование из "size_t" в "COLORREF"; возможна потеря данных
+C:\Users\Paul\Desktop\еще файлик\Source.cpp(167,84): warning C4267: аргумент: преобразование из "size_t" в "COLORREF"; возможна потеря данных
+C:\Users\Paul\Desktop\еще файлик\Source.cpp(171,74): warning C4267: аргумент: преобразование из "size_t" в "COLORREF"; возможна потеря данных
+C:\Users\Paul\Desktop\еще файлик\Source.cpp(171,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Paul\Desktop\еще файлик\Source.cpp(260,86): warning C4267: аргумент: преобразование из "size_t" в "COLORREF"; возможна потеря данных
+  еще файлик.vcxproj -> C:\Users\Paul\Desktop\еще файлик\x64\Debug\еще файлик.exe

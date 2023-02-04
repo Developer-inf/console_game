@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>293</LINE>
+      <COLUMN>55</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>wellRocket::show</FUNCTION>
+    <DECORATED>?show@wellRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>265</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>294</LINE>
+      <COLUMN>68</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>wellRocket::show</FUNCTION>
+    <DECORATED>?show@wellRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>265</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>305</LINE>
+      <COLUMN>55</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>wellRocket::show</FUNCTION>
+    <DECORATED>?show@wellRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>265</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>306</LINE>
+      <COLUMN>68</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>wellRocket::show</FUNCTION>
+    <DECORATED>?show@wellRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>265</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>315</LINE>
+      <COLUMN>55</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>wellRocket::show</FUNCTION>
+    <DECORATED>?show@wellRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>265</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>316</LINE>
+      <COLUMN>69</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>wellRocket::show</FUNCTION>
+    <DECORATED>?show@wellRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>265</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>327</LINE>
+      <COLUMN>55</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>wellRocket::show</FUNCTION>
+    <DECORATED>?show@wellRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>265</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>328</LINE>
+      <COLUMN>69</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>wellRocket::show</FUNCTION>
+    <DECORATED>?show@wellRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>265</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>418</LINE>
+      <COLUMN>50</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>goodRocket::show</FUNCTION>
+    <DECORATED>?show@goodRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>390</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>419</LINE>
+      <COLUMN>68</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>goodRocket::show</FUNCTION>
+    <DECORATED>?show@goodRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>390</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>430</LINE>
+      <COLUMN>50</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>goodRocket::show</FUNCTION>
+    <DECORATED>?show@goodRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>390</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>431</LINE>
+      <COLUMN>68</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>goodRocket::show</FUNCTION>
+    <DECORATED>?show@goodRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>390</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>440</LINE>
+      <COLUMN>50</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>goodRocket::show</FUNCTION>
+    <DECORATED>?show@goodRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>390</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>441</LINE>
+      <COLUMN>69</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>goodRocket::show</FUNCTION>
+    <DECORATED>?show@goodRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>390</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>452</LINE>
+      <COLUMN>50</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>goodRocket::show</FUNCTION>
+    <DECORATED>?show@goodRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>390</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>453</LINE>
+      <COLUMN>69</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>goodRocket::show</FUNCTION>
+    <DECORATED>?show@goodRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>390</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>541</LINE>
+      <COLUMN>50</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>badRocket::show</FUNCTION>
+    <DECORATED>?show@badRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>513</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>542</LINE>
+      <COLUMN>68</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>badRocket::show</FUNCTION>
+    <DECORATED>?show@badRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>513</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>553</LINE>
+      <COLUMN>50</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>badRocket::show</FUNCTION>
+    <DECORATED>?show@badRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>513</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>554</LINE>
+      <COLUMN>68</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>badRocket::show</FUNCTION>
+    <DECORATED>?show@badRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>513</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>563</LINE>
+      <COLUMN>50</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>badRocket::show</FUNCTION>
+    <DECORATED>?show@badRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>513</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>564</LINE>
+      <COLUMN>69</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>badRocket::show</FUNCTION>
+    <DECORATED>?show@badRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>513</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>575</LINE>
+      <COLUMN>50</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>badRocket::show</FUNCTION>
+    <DECORATED>?show@badRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>513</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>Classes.cpp</FILENAME>
+      <LINE>576</LINE>
+      <COLUMN>69</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>badRocket::show</FUNCTION>
+    <DECORATED>?show@badRocket@@UAEXK@Z</DECORATED>
+    <FUNCLINE>513</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

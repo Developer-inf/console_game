@@ -1,0 +1,79 @@
+﻿  Classes.cpp
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(96,118): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(96,91): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(96,43): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(106,70): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(106,38): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(107,70): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(107,38): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(115,122): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(115,73): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(116,122): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(116,86): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(127,122): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(127,73): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(128,122): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(128,86): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(137,123): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(137,74): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(138,124): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(138,88): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(149,123): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(149,74): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(150,124): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(150,88): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(165,118): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(165,91): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(165,43): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(175,70): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(175,38): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(176,70): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(176,38): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(223,18): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(223,49): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(224,18): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(229,18): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(231,18): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(231,49): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(235,18): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(235,49): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(236,18): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(237,18): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(237,49): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(238,62): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(238,32): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(246,18): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(247,34): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(248,34): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(250,18): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(252,34): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(253,18): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(254,18): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(256,34): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(260,74): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(260,56): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(260,38): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(260,20): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(261,74): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(261,56): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(261,38): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(261,20): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(265,74): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(265,56): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(265,38): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+  GetConlWindow.cpp
+  Source.cpp
+C:\Users\z9099\source\repos\еще файлик\Classes.cpp(265,20): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Source.cpp(27,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Source.cpp(51,75): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Source.cpp(105,51): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Source.cpp(120,79): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Source.cpp(142,79): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Source.cpp(146,77): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Source.cpp(146,61): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Source.cpp(214,81): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 35 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  еще файлик.vcxproj -> C:\Users\z9099\source\repos\еще файлик\x64\Release\еще файлик.exe

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\z9099\source\repos\еще файлик\</FILEPATH>
+      <FILENAME>GetConlWindow.cpp</FILENAME>
+      <LINE>9</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>6276</DEFECTCODE>
+    <DESCRIPTION>Приведение строковых типов с разной семантикой:  char * к wchar_t *. Использование недопустимой строки может привести к неопределенному поведению.</DESCRIPTION>
+    <FUNCTION>GetConcolWindow</FUNCTION>
+    <DECORATED>?GetConcolWindow@@YAPAUHWND__@@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

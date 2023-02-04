@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Location" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAYABgAAAAAAA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ACircle" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAACAAAAAABAAECAAAAAADIAAAAAAAAA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Asteroid" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAABBAAAAAAAAAA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bounty" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAEAACAAAABBAAAAAAAAA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ARocket" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCCAiAAAAAQAAAAAQIAIACAIAAAACAAAAAQkCAJDA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wellRocket" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABBAAAIAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wellRocketWithNoses" Collapsed="true">
+    <Position X="5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAgAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="goodRocket" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAIAAAAEABAAAAAAAAAA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="badRocket" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAIAAAAAABAAAABAAAAA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\z9099\source\repos\еще файлик\Source.cpp(25,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Source.cpp(99,51): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\z9099\source\repos\еще файлик\Source.cpp(119,51): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+  еще файлик.vcxproj -> C:\Users\z9099\source\repos\еще файлик\Debug\еще файлик.exe
